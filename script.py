@@ -1,4 +1,8 @@
 from random import randint
+import numpy as np
+a=np.array([[1,2],[3,4]])
+print(a)
+
 randomNumber = randint(0, 49)
 playerNumber=32
 playAmount =550
