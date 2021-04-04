@@ -42,3 +42,18 @@ c+10 #Adds 10 to every element..doesnt modify array
 c
 c+=10
 c + d #adds the two
+
+#Boolean arrays
+c[[True,False,False,True]] #selects the true and returns 
+
+c >= 2 #Return a boolean value
+c <=10
+c[c>10] #returns an array  
+
+c < c.mean() #returns a boolean array of evaluating 
+c[c>c.mean()]
+
+c[(c>10) | (c==13)] #or operator
+
+S = np.random.randint(100, size=(4,4)) #Random 4by4 matrix between 0 and 100
+S > 70
