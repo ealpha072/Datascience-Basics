@@ -57,3 +57,9 @@ c[(c>10) | (c==13)] #or operator
 
 S = np.random.randint(100, size=(4,4)) #Random 4by4 matrix between 0 and 100
 S > 70
+
+
+#random functions in numpy
+arr = np.random.random(size=(2,4))
+arra = np.random.normal(size=2)
+ar = np.random.rand(2,4)
