@@ -60,6 +60,22 @@ S > 70
 
 
 #random functions in numpy
-arr = np.random.random(size=(2,4))
+#arr = np.random.random(size=(2,4))
 arra = np.random.normal(size=2)
 ar = np.random.rand(2,4)
+
+#reading from files 
+fo = open('data1.txt','r')
+fo.name
+#print(fo.read())
+my_data = np.loadtxt(fo.name,skiprows=1)  #only works with no missing values
+
+my_data2 = np.genfromtxt('data2.txt',skip_header=1,filling_values=1.2575)
+
+arr1 = np.ones((4,4),dtype=int)
+arr2 = np.full((4,4),4)
+arr3 =arr1-arr2
+arr3 *= np.identity(4,dtype=int)
+arr3*= -1
+arr4 = np.sqrt(arr3)
+arr4.max(axis=1)
