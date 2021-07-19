@@ -1,6 +1,7 @@
 # Data Science with Python -- Basics
 ## About
-This repository contains summary notes on data analysis basics with python. It covers a wide variety of notes on the common libraries in python used for data analysis. The notes have been made from the geeksforgeeks data science tutorial and the tutorialspoint website. The links to the tutorials can be found at the official websites. Pandas tutorials are found <a href = "https://www.geeksforgeeks.org/pandas-tutorial/" target = "_blank">here</a>
+This repository contains summary notes on data analysis basics with python. It covers a wide variety of notes on the common libraries in python used for data analysis. The notes have been made from the geeksforgeeks data science tutorial and the tutorialspoint website. The links to the tutorials can be found at the official websites. Pandas tutorials are found <a href = "https://www.geeksforgeeks.org/pandas-tutorial/" target = "_blank">here</a>. The links to the tutorialspont website is <a href ="https://www.tutorialspoint.com/python_pandas/index.htm" target = "_blank" >here</a>
+
 Notes are on:
 * Pandas, 
 * Numpy
