@@ -10,4 +10,4 @@ These notes cover the below listed libraries;
 ***
 
 ## File structures and description
-The .txt file extensions are an example of reading txt files with pandas.
+The .txt file extensions are an example of reading txt files with pandas
