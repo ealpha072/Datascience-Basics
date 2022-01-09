@@ -9,5 +9,5 @@ These notes cover the below listed libraries;
 * `Matplotlib` - The notes on this are from geeksforgeeks which covers concepts from a beginner level to expert. Links: Tutorialspoint --> <a href="https://www.w3schools.com/python/matplotlib_intro.asp" target = "_target">matplotlib</a>. Geeksforgeeks --> <a href = "https://www.geeksforgeeks.org/matplotlib-tutorial/">Matplotlib</a>
 ***
 
-## File structures and description
+## File structures description
 The .txt file extensions are an example of reading txt files with pandas.
